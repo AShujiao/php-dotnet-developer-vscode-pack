@@ -1,0 +1,45 @@
+{
+    "name": "php-dotnet-developer-vscode-pack",
+    "displayName": "PHP Dotnet Developer Pack",
+    "description": "这是一个主要包含PHP、.NetCore开发人员使用的扩展包，和一些能够提高效率插件。",
+    "version": "0.0.1",
+    "publisher": "manasxx",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "alefragnani.Bookmarks", 
+        "bmewburn.vscode-intelephense-client", 
+        "christian-kohler.path-intellisense", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "donjayamanne.jquerysnippets", 
+        "ecodes.vscode-phpmd", 
+        "eg2.vscode-npm-script", 
+        "emmanuelbeziat.vscode-great-icons", 
+        "fantasytyx.tortoise-svn", 
+        "felixfbecker.php-debug", 
+        "formulahendry.dotnet", 
+        "formulahendry.translator", 
+        "GrapeCity.gc-excelviewer", 
+        "hoovercj.vscode-power-mode", 
+        "humy2833.ftp-simple", 
+        "jmrog.vscode-nuget-package-manager", 
+        "kisstkondoros.vscode-gutter-preview", 
+        "leizongmin.node-module-intellisense", 
+        "manasxx.background-cover", 
+        "manasxx.PHPDocument", 
+        "mkloubert.vscode-remote-workspace", 
+        "ms-mssql.mssql", 
+        "ms-vscode.csharp", 
+        "oderwat.indent-rainbow", 
+        "Shan.code-settings-sync", 
+        "SirTori.indenticator", 
+        "uloco.theme-bluloco-dark", 
+        "vincaslt.highlight-matching-tag", 
+        "wwm.better-align", 
+        "yurun.phpcomments"
+    ]
+}
