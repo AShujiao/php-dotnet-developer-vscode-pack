@@ -1,6 +1,6 @@
 {
-    "name": "php-dotnet-developer-vscode-pack",
-    "displayName": "PHP Dotnet Developer Pack",
+    "name": "php-netcore-developer-vscode-pack",
+    "displayName": "PHP NetCore Developer Pack",
     "description": "这是一个主要包含PHP、.NetCore开发人员使用的扩展包，和一些能够提高效率插件。",
     "version": "0.0.1",
     "publisher": "manasxx",
