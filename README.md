@@ -45,6 +45,6 @@
 
 ### 相关信息
 
-* [GitHub](https://github.com/AShujiao/vscode-phpDocument.git)
+* [GitHub](https://github.com/AShujiao/php-dotnet-developer-vscode-pack)
 
 **Enjoy!**

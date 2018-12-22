@@ -5,11 +5,12 @@
     "version": "0.0.1",
     "publisher": "manasxx",
     "engines": {
-        "vscode": "^1.30.0"
+        "vscode": "^1.26.0"
     },
     "categories": [
         "Extension Packs"
     ],
+    "icon": "resources/vscode-icon.png",
     "extensionDependencies": [
         "alefragnani.Bookmarks", 
         "bmewburn.vscode-intelephense-client", 
