@@ -42,5 +42,10 @@
         "vincaslt.highlight-matching-tag", 
         "wwm.better-align", 
         "yurun.phpcomments"
-    ]
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AShujiao/php-netcore-developer-vscode-pack.git"
+    },
+    "homepage": "https://github.com/AShujiao/php-netcore-developer-vscode-pack/blob/master/README.md"
 }
