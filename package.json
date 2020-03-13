@@ -2,7 +2,7 @@
     "name": "php-netcore-developer-vscode-pack",
     "displayName": "PHP NetCore Developer Pack",
     "description": "这是一个主要包含PHP、.NetCore开发人员使用的扩展包，和一些能够提高效率插件。",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "manasxx",
     "engines": {
         "vscode": "^1.26.0"
@@ -17,7 +17,6 @@
         "christian-kohler.path-intellisense", 
         "CoenraadS.bracket-pair-colorizer", 
         "donjayamanne.jquerysnippets", 
-        "ecodes.vscode-phpmd", 
         "eg2.vscode-npm-script", 
         "emmanuelbeziat.vscode-great-icons", 
         "fantasytyx.tortoise-svn", 
@@ -41,7 +40,9 @@
         "uloco.theme-bluloco-dark", 
         "vincaslt.highlight-matching-tag", 
         "wwm.better-align", 
-        "yurun.phpcomments"
+        "yurun.phpcomments",
+        "neilbrayfield.php-docblocker",
+        "wwm.better-align"
     ],
     "repository": {
         "type": "git",
